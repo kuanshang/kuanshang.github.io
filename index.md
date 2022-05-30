@@ -5,7 +5,10 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+
 [Support page](./docs/SUPPORT.html).
+
+[生活](./docs/life/生活.html).
 
 There should be whitespace between paragraphs.
 
